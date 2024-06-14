@@ -1,0 +1,9 @@
+
+3) How to fund Goreli test network with test ether in Metamask?
+
+ans > open your browser 
+     -https://www.goerlifaucet.org/ 
+     - go to meta mask and copy your address  and past it 
+     -  click i am not a robot
+     - claim you goreli test ether 
+    with in 10 to 15 sec you wallet get test ether 

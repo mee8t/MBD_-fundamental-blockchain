@@ -1,0 +1,16 @@
+
+2) How to add and switch the main network to Goreli test network in
+Metamask?
+
+ans> steps -open metamask 
+           - click on left side Ethereum  mainnet
+           - click on add network
+            -click Add a network manually
+            - add the network details
+             Network name  - goreli testnet
+             New RPC URL
+              Chain ID
+             Currency symbol
+             Block explorer URL
+             -click on Save
+             you switch the goreli testnet

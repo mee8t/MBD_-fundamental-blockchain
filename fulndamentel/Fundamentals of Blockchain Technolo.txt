@@ -1,0 +1,21 @@
+Fundamentals of Blockchain Technology Module:
+1) Demonstrate on How to create and setup Metamask account and
+wallet?
+ans > steps -Open browser 
+           - search metamask extension 
+           - then click on add extension
+           - go to tool bar and pin the meta mask
+           - then click on the create new wallet 
+           -  I agree
+           -set password and click on i agree
+           - click on secure my wallet
+           - write down seed phrase  and keep it in safe 
+           - click on next
+           -Confirm Secret Recovery Phrase
+           - click on confirm
+           - click on got it
+           - click on done
+
+
+
+
